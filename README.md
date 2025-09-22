@@ -1,5 +1,6 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff99cc,cc66ff&height=200&section=header&text=Hi,%20there!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E90FF,8A2BE2&height=200&section=header&text=Hi,%20there!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 
 
 🛠️ Java, Python, C++을 비롯한 다양한 언어와 PostgreSQL, MySQL 같은 데이터베이스를 학습 중입니다.  
@@ -37,7 +38,8 @@
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff99cc,cc66ff&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E90FF,8A2BE2&height=200&section=footer" />
+
 
 
 
