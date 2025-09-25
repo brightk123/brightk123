@@ -36,7 +36,7 @@
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=Apache-Tomcat&logoColor=black)
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4F98FF,100:A078FF&height=200&section=footer&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:A078FF,100:4F98FF&height=200&section=footer&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 
 
